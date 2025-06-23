@@ -1,0 +1,7 @@
+project-root/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+└── images/ (если будут изображения)
